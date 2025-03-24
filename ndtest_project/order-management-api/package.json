@@ -12,10 +12,12 @@
   "dependencies": {
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
+    "order-management-api": "file:"
+  },
+  "devDependencies": {
     "jest": "^29.7.0",
-    "order-management-api": "file:",
     "sequelize": "^6.37.6",
     "sqlite3": "^5.1.7",
-    "supertest": "^7.0.0"
+    "supertest": "^7.1.0"
   }
 }
